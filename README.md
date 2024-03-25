@@ -1,4 +1,4 @@
-# React Ecommerce Website
+# Full Stack React Ecommerce Website
 
 This repository contains the code for a simple React ecommerce website with backend implemented using Node.js, Express, and MongoDB. It allows users to sign up, log in, browse products, add products to cart, and perform various other ecommerce functionalities.
 
