@@ -7,7 +7,7 @@ This repository contains the code for a simple React ecommerce website with back
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/bchakradhar20/Full-Stack-React-Ecommerce-Website.git
    ```
 
 2. **Install dependencies:**
