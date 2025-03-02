@@ -66,6 +66,22 @@ This repository contains the code for a simple React ecommerce website with back
 - JWT for authentication
 - Multer for file upload
 - CORS for cross-origin resource sharing
+  ![image](https://github.com/user-attachments/assets/934e5e04-1474-495d-9ba4-1cb2bd265f9e)
+  ![image](https://github.com/user-attachments/assets/aaf8e5fc-d539-42e9-8534-7d7391e09404)
+  ![image](https://github.com/user-attachments/assets/3cf6ff7c-28bc-4034-a969-a7a6abfbbb31)
+  ![image](https://github.com/user-attachments/assets/ca26e96b-2b36-4e4f-aede-4658cc3bff10)
+  ![image](https://github.com/user-attachments/assets/9c6ab742-47c7-4d16-8273-d3b666306713)
+  ![image](https://github.com/user-attachments/assets/a5059b6b-3ed8-44a5-9b71-e8b94fc7f746)
+  ![image](https://github.com/user-attachments/assets/e56dca7c-e2e3-4b7f-b7dd-ef2823dbe9d1)
+  ![image](https://github.com/user-attachments/assets/dc4cff0d-4242-4439-8842-738cd1d20663)
+
+
+
+
+
+
+
+
 
 ## Contributing
 
